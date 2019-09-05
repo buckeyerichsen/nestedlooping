@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="345c0486-406f-48cf-a60c-e52431bd27a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="345c0486-406f-48cf-a60c-e52431bd27a5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="633" />
     <option name="y" value="143" />
     <option name="width" value="1004" />
@@ -116,12 +114,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567688754327</updated>
-      <workItem from="1567688759296" duration="6826000" />
+      <workItem from="1567688759296" duration="7129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6826000" />
+    <option name="totallyTimeSpent" value="7129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="633" y="143" width="1004" height="688" extended-state="0" />
